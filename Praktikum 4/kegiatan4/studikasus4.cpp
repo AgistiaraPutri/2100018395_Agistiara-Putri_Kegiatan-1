@@ -26,7 +26,7 @@ int Operator::iteratif_fibo(int n){ //iteratif
 	return fn;
 };
 
-int Operator::rekursif_fibo(int n){
+int Operator::rekursif_fibo(int n){ //rekursif
 	if ( n == 0 ){
 		return 0;
 	}
